@@ -1,0 +1,10 @@
+#import math
+
+#n = int(input("Первое число: "))
+#k = int(input("Второе число: "))
+#n1 = math.factorial(n)
+#k1 = math.factorial(k)
+#g = n - k
+#g2 = math.factorial(g)
+#C = n1 / (k1 * g2)
+#print(f"{C}")
