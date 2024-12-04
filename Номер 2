@@ -1,1 +1,7 @@
-
+#def ymnozhenie(memmber):
+#    print(f"Умножается на {memmber}:")
+#    for i in range(1, 11):
+#        resultat = memmber * i
+#        print(f"{memmber} * {i} = {resultat}")
+#memmber = int(input("Число для умножения: "))
+#print(ymnozhenie(memmber))
